@@ -52,4 +52,5 @@ Rails.application.configure do
     :enable_starttls_auto => true
   }
   #Them vi du branch vidu github :)
+  #Het vi du
 end
