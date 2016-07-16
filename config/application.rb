@@ -24,3 +24,4 @@ module AirAlien
     config.active_record.raise_in_transactional_callbacks = true
   end
 end
+#Chi la vi du 3
